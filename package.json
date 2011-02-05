@@ -1,7 +1,7 @@
 {
   "name" : "notifo",
   "description" : "Send push notifications to your iPhone for free through http://notifo.com/.",
-  "version" : "0.0.1",
+  "version" : "0.0.2",
   "author" : "Mathias Pettersson <mape@mape.me>",
   "engines" : ["node"],
   "directories" : { "lib" : "./lib" },
