@@ -1,9 +1,9 @@
 {
   "name" : "notifo",
   "description" : "Send push notifications to your iPhone for free through http://notifo.com/.",
-  "version" : "0.0.3",
+  "version" : "0.0.4",
   "author" : "Mathias Pettersson <mape@mape.me>",
-  "engines" : ["node"],
+  "engines" : { "node": ">= 0.3.1" },
   "directories" : { "lib" : "./lib" },
   "main" : "./lib/notifo",
   "repository" : { "type":"git", "url":"http://github.com/mape/node-notifo" }
